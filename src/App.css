@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  /* font-family: 'Inter', sans-serif; */
+  font-size: 14px;
+  text-shadow: none;
+}
+
+
+input,
+select,
+textarea {
+  font-size: 16px;
+  /* Adjust as needed */
+  max-width: 100%;
+  /* Prevent input fields from exceeding screen width */
+}
+
+
+
+
+.ant-tabs-content {
+  padding-bottom: 0;
+}
+
+.slick-prev {
+  color: red;
+  /* Change to your desired color */
+}
+
+/* Change the color of the right control (arrow) */
+.slick-next {
+  color: blue;
+  /* Change to your desired color */
+}
